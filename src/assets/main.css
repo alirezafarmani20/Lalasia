@@ -4,37 +4,37 @@
 
 @theme {
   --color-primary-1: #518581;
-  --color-primary-2: #6E9996;
-  --color-primary-3: #8BAEAB;
-  --color-primary-4: #A8C2C0;
-  --color-primary-5: #C5D6D5;
-  --color-primary-6: #DCE7E6;
-  --color-secondary-1: #FFB23F;
-  --color-secondary-2: #FFBF5F;
-  --color-secondary-3: #FFCC7F;
-  --color-secondary-4: #FFD89F;
-  --color-secondary-5: #FFE5BF;
-  --color-secondary-6: #FFF0D9;
+  --color-primary-2: #6e9996;
+  --color-primary-3: #8baeab;
+  --color-primary-4: #a8c2c0;
+  --color-primary-5: #c5d6d5;
+  --color-primary-6: #dce7e6;
+  --color-secondary-1: #ffb23f;
+  --color-secondary-2: #ffbf5f;
+  --color-secondary-3: #ffcc7f;
+  --color-secondary-4: #ffd89f;
+  --color-secondary-5: #ffe5bf;
+  --color-secondary-6: #fff0d9;
   --color-title-1: #151411;
-  --color-title-2: #3C3B39;
+  --color-title-2: #3c3b39;
   --color-title-3: #636260;
-  --color-title-4: #8A8988;
-  --color-title-5: #B1B1B0;
-  --color-title-6: #D0D0CF;
-  --color-paragraph-1: #AFADB5;
-  --color-paragraph-2: #BCBBC1;
-  --color-paragraph-3: #CAC8CE;
-  --color-paragraph-4: #D7D6DA;
-  --color-paragraph-5: #E4E4E6;
-  --color-paragraph-6: #EFEFF0;
-  --color-placeholder-1: #F9F9F9;
-  --color-placeholder-2: #FAFAFA;
-  --color-placeholder-3: #FBFBFB;
-  --color-placeholder-4: #FCFCFC;
-  --color-placeholder-5: #FDFDFD;
-  --color-placeholder-6: #FEFEFE;
-  --color-screen-1: #FFFFFF;
-  --color-screen-2: #F3F3F3;
+  --color-title-4: #8a8988;
+  --color-title-5: #b1b1b0;
+  --color-title-6: #d0d0cf;
+  --color-paragraph-1: #afadb5;
+  --color-paragraph-2: #bcbbc1;
+  --color-paragraph-3: #cac8ce;
+  --color-paragraph-4: #d7d6da;
+  --color-paragraph-5: #e4e4e6;
+  --color-paragraph-6: #efeff0;
+  --color-placeholder-1: #f9f9f9;
+  --color-placeholder-2: #fafafa;
+  --color-placeholder-3: #fbfbfb;
+  --color-placeholder-4: #fcfcfc;
+  --color-placeholder-5: #fdfdfd;
+  --color-placeholder-6: #fefefe;
+  --color-screen-1: #ffffff;
+  --color-screen-2: #f3f3f3;
 }
 
 * {
