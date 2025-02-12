@@ -1,5 +1,42 @@
 @import "tailwindcss";
 
+/*set colors in project*/
+
+@theme {
+  --color-primary-1: #518581;
+  --color-primary-2: #6E9996;
+  --color-primary-3: #8BAEAB;
+  --color-primary-4: #A8C2C0;
+  --color-primary-5: #C5D6D5;
+  --color-primary-6: #DCE7E6;
+  --color-secondary-1: #FFB23F;
+  --color-secondary-2: #FFBF5F;
+  --color-secondary-3: #FFCC7F;
+  --color-secondary-4: #FFD89F;
+  --color-secondary-5: #FFE5BF;
+  --color-secondary-6: #FFF0D9;
+  --color-title-1: #151411;
+  --color-title-2: #3C3B39;
+  --color-title-3: #636260;
+  --color-title-4: #8A8988;
+  --color-title-5: #B1B1B0;
+  --color-title-6: #D0D0CF;
+  --color-paragraph-1: #AFADB5;
+  --color-paragraph-2: #BCBBC1;
+  --color-paragraph-3: #CAC8CE;
+  --color-paragraph-4: #D7D6DA;
+  --color-paragraph-5: #E4E4E6;
+  --color-paragraph-6: #EFEFF0;
+  --color-placeholder-1: #F9F9F9;
+  --color-placeholder-2: #FAFAFA;
+  --color-placeholder-3: #FBFBFB;
+  --color-placeholder-4: #FCFCFC;
+  --color-placeholder-5: #FDFDFD;
+  --color-placeholder-6: #FEFEFE;
+  --color-screen-1: #FFFFFF;
+  --color-screen-2: #F3F3F3;
+}
+
 * {
   box-sizing: border-box;
 }
