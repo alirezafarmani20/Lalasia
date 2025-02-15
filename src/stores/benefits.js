@@ -19,7 +19,7 @@ export const useBenefitsStore = defineStore("useBenefits", {
     async getData() {
       // get data
       try {
-        const response = await axios.get(`${baseUrl}`).then((res) => {
+        const response = await axios.get(`${baseUrl}bebefits`).then((res) => {
           this.data = res.data;
           console.log(res.data);
           this.loading = false;
