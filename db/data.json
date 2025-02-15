@@ -1,3 +1,22 @@
 {
-    
+    "bebefits": [
+        {
+            "id": "1",
+            "icon": "../src/assets/icons/icon1.png",
+            "title": "meny choices",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+        },
+        {
+            "id": "2",
+            "icon": "../src/assets/icons/icon2.png",
+            "title": "fast and on time",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+        },
+        {
+            "id": "3",
+            "icon": "../src/assets/icons/icon3.png",
+            "title": "affordabele price",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+        }
+    ]
 }
