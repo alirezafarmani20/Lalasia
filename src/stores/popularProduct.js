@@ -8,23 +8,21 @@ export const usePopularProductStore = defineStore("usePopularProduct", {
     loading: true,
   }),
 
-  getters: () => {
+  getters: {
     showData: (state) => {
       return state.data;
-    };
+    }
   },
 
   actions: {
     async getData() {
-      // get data
       try {
-        const response = await axios.get(`${baseUrl}popular-product`).then((res) => {
-          this.data = res.data;
-          console.log(res.data);
-          this.loading = false;
-        });
+        const response = await axios.get(`${baseUrl}popular-product`);
+        this.data = response.data;
+        console.log(response.data);
+        this.loading = false;
       } catch (err) {
-        console.log(`this is a error: ${err.message}`);
+        console.log(`this is an error: ${err.message}`);
         this.loading = true;
       }
     },
