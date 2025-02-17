@@ -18,5 +18,55 @@
             "title": "affordabele price",
             "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
         }
+    ],
+    "popular-product": [
+        {
+            "id": "1",
+            "productImage": "../src/assets/images/pimage1.png",
+            "productType": "chair",
+            "productTitle": "white aesthetics chair",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "64.47"
+        },
+        {
+            "id": "2",
+            "productImage": "../src/assets/images/pimage2.png",
+            "productType": "cupboard",
+            "productTitle": "wooden cupboard 3 row",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "79.88"
+        },
+        {
+            "id": "3",
+            "productImage": "../src/assets/images/pimage3.png",
+            "productType": "chair",
+            "productTitle": "minimalist lounge chair",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "14.47"
+        },
+        {
+            "id": "4",
+            "productImage": "../src/assets/images/pimage4.png",
+            "productType": "tabel",
+            "productTitle": "working desk setup",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "47.90"
+        },
+        {
+            "id": "5",
+            "productImage": "../src/assets/images/pimage5.png",
+            "productType": "cupnoard",
+            "productTitle": "minimalist white cupboard",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "40.73"
+        },
+        {
+            "id": "6",
+            "productImage": "../src/assets/images/pimage6.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        }
     ]
 }
