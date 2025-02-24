@@ -4,19 +4,19 @@
             "id": "1",
             "icon": "../src/assets/icons/icon1.png",
             "title": "meny choices",
-            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+            "text": "Pellentesque etiam blandit in tincidunt at donec. Eget ipsum dignissim placerat nisi, adipiscing mauris non. "
         },
         {
             "id": "2",
             "icon": "../src/assets/icons/icon2.png",
             "title": "fast and on time",
-            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+            "text": "Pellentesque etiam blandit in tincidunt at donec. Eget ipsum dignissim placerat nisi, adipiscing mauris non. "
         },
         {
             "id": "3",
             "icon": "../src/assets/icons/icon3.png",
             "title": "affordabele price",
-            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus minima rerum placeat culpa libero ducimus nesciunt."
+            "text": "Pellentesque etiam blandit in tincidunt at donec. Eget ipsum dignissim placerat nisi, adipiscing mauris non. "
         }
     ],
     "popular-product": [
@@ -62,6 +62,54 @@
         },
         {
             "id": "6",
+            "productImage": "../src/assets/images/pimage6.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "7",
+            "productImage": "../src/assets/images/pimage1.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "8",
+            "productImage": "../src/assets/images/pimage2.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "9",
+            "productImage": "../src/assets/images/pimage3.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "10",
+            "productImage": "../src/assets/images/pimage4.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "11",
+            "productImage": "../src/assets/images/pimage6.png",
+            "productType": "table",
+            "productTitle": "wooden dining table",
+            "productDescription": "combinational of wood and wool",
+            "productPrice": "16.50"
+        },
+        {
+            "id": "12",
             "productImage": "../src/assets/images/pimage6.png",
             "productType": "table",
             "productTitle": "wooden dining table",

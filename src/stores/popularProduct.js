@@ -11,7 +11,7 @@ export const usePopularProductStore = defineStore("usePopularProduct", {
   getters: {
     showData: (state) => {
       return state.data;
-    }
+    },
   },
 
   actions: {

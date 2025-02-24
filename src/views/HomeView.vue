@@ -3,6 +3,7 @@
 import MainBaner from "@/components/MainBaner.vue";
 import Benefits from "@/components/Benefits.vue";
 import PopularProducts from "@/components/PopularProducts.vue";
+import OurProduct from "@/components/OurProduct.vue";
 </script>
 
 <template>
@@ -14,5 +15,8 @@ import PopularProducts from "@/components/PopularProducts.vue";
   </div>
   <div>
     <PopularProducts />
+  </div>
+  <div>
+    <OurProduct />
   </div>
 </template>

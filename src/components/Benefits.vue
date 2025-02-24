@@ -28,8 +28,8 @@ onMounted(async () => {
           </div>
           <div class="flex justify-between w-full sm:w-[321px]">
             <p class="text-wrap text-title-2 font-medium text-[15px]">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum at iusto modi numquam
-              sint. Eligendi laboriosam nihil repudiandae.
+              Pellentesque etiam blandit in tincidunt at donec. Eget ipsum dignissim placerat nisi,
+              adipiscing mauris non purus parturient.
             </p>
           </div>
         </div>

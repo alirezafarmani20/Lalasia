@@ -26,8 +26,9 @@ import SearchBox from "./SearchBox.vue";
             class="w-[47px] h-[44px] sm:w-[60px] sm:h-[132px] relative left-[10px] top-[-60px] sm:left-0 sm:right-[90px] sm:top-[-20px]"
           />
           <p class="text-wrap text-center sm:font-medium text-title-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus cum minus quam
-            provident neque delectus, facilis hic qui quaerat, consequatur reprehenderit!
+            Pellentesque etiam blandit in tincidunt at donec. Eget ipsum dignissim placerat nisi,
+            adipiscing mauris non. Purus parturient viverra nunc, tortor sit laoreet. Quam tincidunt
+            aliquam adipiscing tempor.
           </p>
         </div>
       </div>
